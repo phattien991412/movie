@@ -1,0 +1,25 @@
+.slick-dots-bottom {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+
+
+.banner-1 {
+    background-image: url("../../../../assets/img/poster-movie-1.jpg");
+}
+
+.banner-2 {
+    background-image: url("../../../../assets/img/poster-movie-2.jpg");
+}
+
+.banner-3 {
+    background-image: url("../../../../assets/img/poster-movie-3.jpg");
+}
+
+.banner-1, .banner-2, .banner-3 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+}

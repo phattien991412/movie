@@ -1,0 +1,42 @@
+.detail {
+  height: 1250px;
+}
+
+.card {
+  padding-top: 12rem !important;
+  height: 1250px !important;
+}
+
+.react-responsive-modal-modal {
+  padding: 0 !important;
+  width: 800px !important;
+  height: 450px !important;
+}
+
+.detail-schedule {
+  height: 600px;
+}
+
+@media screen and (max-width: 768px) {
+  .detail {
+    height: 1600px;
+  }
+
+  .card {
+  height: 1600px !important;
+    
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .detail {
+    height: 1400px;
+  }
+
+  .card {
+    padding: 0;
+    height: 1400px !important;
+  }
+
+  
+}

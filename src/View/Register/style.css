@@ -1,0 +1,15 @@
+.bg-movie {
+  background-image: url("../../assets/img/poster.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 730px;
+}
+
+.bg-register {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(20, 50, 93, 0.9),
+    rgba(8, 22, 48, 0.9)
+  );
+}
