@@ -8,8 +8,7 @@
 
 <h3>Technology</h3>
 <ul>
-  <li>HTML/CSS - TailwindCss</li>
-  <li>Animation: AOS</li>
+  <li>HTML/CSS - JS - TailwindCss</li>
   <li>Framework: ReactJs</li>
 </ul>
 
